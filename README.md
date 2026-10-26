@@ -103,14 +103,3 @@ I'm a data analyst who enjoys the full path from raw tables to a decision someon
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kucheriavii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
-> To include private contributions in the graph and stats, enable **Profile settings → "Private contributions"** on GitHub.
-
----
-
-
----
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion."</i><br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" />
-</p>
