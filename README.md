@@ -97,9 +97,3 @@ I'm a data analyst who enjoys the full path from raw tables to a decision someon
   <img src="https://streak-stats.demolab.com?user=kucheriavii&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-### 🔥 Contribution activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kucheriavii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
