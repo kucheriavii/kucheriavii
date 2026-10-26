@@ -107,24 +107,6 @@ I'm a data analyst who enjoys the full path from raw tables to a decision someon
 
 ---
 
-## 🧠 Sample query
-
-```sql
--- Weekly signup cohorts: 30-day retention
-WITH cohorts AS (
-  SELECT user_id, DATE_TRUNC('week', signup_date) AS cohort
-  FROM users
-)
-SELECT c.cohort,
-       COUNT(DISTINCT c.user_id) AS users,
-       ROUND(100.0 * COUNT(DISTINCT e.user_id) / COUNT(DISTINCT c.user_id), 1) AS retention_30d_pct
-FROM cohorts c
-LEFT JOIN events e
-  ON e.user_id = c.user_id
- AND e.event_date BETWEEN c.cohort + 29 AND c.cohort + 31
-GROUP BY 1
-ORDER BY 1;
-```
 
 ---
 
